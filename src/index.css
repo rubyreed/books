@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.books{
+  background-color: lightskyblue;
+  border: 5px solid darkblue;
+  margin:10px;
+  padding:10px;
+}
+
+.book-container{
+  background-color:lightcyan;
+  border: 5px solid salmon;
+  margin:10px;
+  padding:10px;
+}
+
+.book-form{
+  background-color: rgb(200, 182, 255);
+  border: 5px solid mediumslateblue;
+  margin:10px;
+  padding:10px; 
+}
+
+.button{
+  background-color:springgreen;
+  color:black;
+}
